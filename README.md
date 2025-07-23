@@ -19,7 +19,7 @@
     }
     .profile-pic-placeholder {
       width: 150px;
-      height: 150px;
+      height: 100px;
       background-color: #2c2c2c;
       border-radius: 50%;
       margin: 0 auto 1.5rem;
