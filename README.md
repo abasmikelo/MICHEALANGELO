@@ -121,7 +121,7 @@
 <body>
  <header>
   <div class="profile-pic-placeholder">
-    <img class="profile-pic-placeholder" src="https://github.com/abasmikelo/MICHEALANGELO/blob/main/yourphoto.jpg?raw=true" alt="Michelangelo Uko">
+    <img class="profile-pic-placeholder" src="https://github.com/abasmikelo/MICHEALANGELO/blob/main/profile pic 1.jpeg?raw=true" alt="Michelangelo Uko">
   </div>
   <h1>Michelangelo Uko</h1>
   <p>Multidisciplinary Creative: Virtual Assistance, Typography, Copywriting & Art</p>
