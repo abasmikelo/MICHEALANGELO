@@ -19,7 +19,7 @@
     }
     .profile-pic-placeholder {
       width: 150px;
-      height: 100px;
+      height: 160px;
       background-color: #2c2c2c;
       border-radius: 50%;
       margin: 0 auto 1.5rem;
@@ -68,7 +68,7 @@
       border-radius: 8px;
     }
     .portfolio img {
-      width: 100%;
+      width: 130%;
       border-radius: 8px;
       display: block;
     }
