@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MichelangeloUko - Portfolio</title>
+  <title>Michelangelo Uko - Portfolio</title>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
@@ -17,27 +17,22 @@
       text-align: center;
       position: relative;
     }
-    .round-frame {
-      width: 210px;
-      height: 210px;
-      border: 4px solid #8a2be2;
+    .profile-pic-placeholder {
+      width: 150px;
+      height: 150px;
+      background-color: #2c2c2c;
       border-radius: 50%;
-      overflow: hidden;
-      position: absolute;
-      top: 60px;
-      left: 50%;
-      transform: translateX(-50%);
-      background-color: #fff;
-    }
-    .round-frame img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
+      margin: 0 auto 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #aaa;
+      font-size: 0.9rem;
     }
     header h1 {
       font-size: 2.5rem;
       color: #ffffff;
-      margin-top: 13rem;
+      margin-top: 2rem;
     }
     header p {
       font-size: 1.2rem;
@@ -125,9 +120,7 @@
 </head>
 <body>
   <header>
-    <div class="round-frame">
-      <img src="https://via.placeholder.com/150" alt="Profile Photo">
-    </div>
+    <div class="profile-pic-placeholder">Insert Photo</div>
     <h1>Michelangelo Uko</h1>
     <p>Multidisciplinary Creative: Virtual Assistance, Typography, Copywriting & Art</p>
     <button class="btn">View Portfolio</button>
