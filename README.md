@@ -196,7 +196,7 @@
     <div class="button-row">
       <a href="tel:0592208656" class="btn-link">Phone</a>
       <a href="https://instagram.com/temiz_gabs" target="_blank" class="btn-link">Instagram</a>
-      <a href="https://www.linkedin.com/in/michealangelo-uko" target="_blank" class="btn-link">LinkedIn</a>
+      <a href="http://www.linkedin.com/in/michelangelouko" target="_blank" class="btn-link">LinkedIn</a>
       <a href="mailto:temizgabs19@gmail.com" class="btn-link">Email</a>
     </div>
   </section>
