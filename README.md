@@ -119,12 +119,14 @@
   </style>
 </head>
 <body>
-  <header>
-    <div class="profile-pic-placeholder">Insert Photo</div>
-    <h1>Michelangelo Uko</h1>
-    <p>Multidisciplinary Creative: Virtual Assistance, Typography, Copywriting & Art</p>
-    <button class="btn">View Portfolio</button>
-  </header>
+ <header>
+  <div class="profile-pic-placeholder">
+    <img class="profile-pic-placeholder" src="https://github.com/abasmikelo/MICHEALANGELO/blob/main/yourphoto.jpg?raw=true" alt="Michelangelo Uko">
+  </div>
+  <h1>Michelangelo Uko</h1>
+  <p>Multidisciplinary Creative: Virtual Assistance, Typography, Copywriting & Art</p>
+  <a href="https://your-portfolio-link.com" class="btn">View Portfolio</a>
+</header>
 
   <section>
     <h2>About Me</h2>
